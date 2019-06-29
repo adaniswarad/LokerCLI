@@ -14,7 +14,7 @@ init 5
 ```
 Menentukan banyaknya loker. <br>
 Untuk memulai program anda harus menentukan banyaknya loker terlebih dahulu.
-#### input [karakter] [integer]
+#### input [character] [integer]
 ```bash
 input KTP 556802
 ```
@@ -34,7 +34,7 @@ Menampilkan data yang disimpan ke loker dalam bentuk tabel.
 find 556802
 ```
 Mencari posisi kartu identitas dengan menampilkan nomor loker.
-#### search [karakter]
+#### search [character]
 ```bash
 search KTP
 ```
